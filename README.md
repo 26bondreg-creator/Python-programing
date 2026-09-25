@@ -30,6 +30,6 @@
 ## Perform all arithmetic operations on two numbers Operators
 
 ![App Screenshot]()
-![App Screenshot]("<a href="https://imgbb.com/"><img src="https://i.ibb.co/KT3gYD2/Screenshot-2026-09-24-095943.png" alt="Screenshot 2026 09 24 095943" border="0"></a>)
+![App Screenshot]("https://i.ibb.co/KT3gYD2/Screenshot-2026-09-24-095943.png")
 
 )
