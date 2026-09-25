@@ -1,7 +1,11 @@
 # Python-programing
 ## Screenshots
 
+## Screenshots
+
 ![App Screenshot](
 ## Screenshots
 
-![App Screenshot](https://dummyimage.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://i.ibb.co/zHXhfYK3/Screenshot-2026-09-24-094416.png")
+
+)
