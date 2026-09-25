@@ -13,6 +13,14 @@
 
 ## Perform all arithmetic operations on two numbers Operators
 
-![App Screenshot]("https://i.ibb.co/KT3gYD2/Screenshot-2026-09-24-095943.png")
+
+## Screenshots
+
+![App Screenshot](
+## Screenshots
+
+![App Screenshot]("https://i.ibb.co/d0Xsgcmh/Screenshot-2026-09-24-095958.png" )
+
+
 
 )
