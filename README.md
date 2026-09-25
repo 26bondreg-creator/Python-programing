@@ -4,7 +4,7 @@
 ## Screenshots
 
 ![App Screenshot](
-## Screenshots
+## Print name, age, college and branch
 
 ![App Screenshot](https://i.ibb.co/zHXhfYK3/Screenshot-2026-09-24-094416.png")
 
