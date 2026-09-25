@@ -9,18 +9,7 @@
 ![App Screenshot](https://i.ibb.co/zHXhfYK3/Screenshot-2026-09-24-094416.png")
 
 )
-## Screenshots
 
-## Take name as input and greet the user
-
-![App Screenshot]("https://i.ibb.co/zHxQPXTB/Screenshot-2026-09-24-094638.png")
-
-
-## Take two numbers and display their sum 
-
-![App Screenshot]("https://i.ibb.co/4Rwrbr8t/Screenshot-2026-09-24-095642.png")
-
-)## Screenshots
 
 ## Perform all arithmetic operations on two numbers Operators
 
